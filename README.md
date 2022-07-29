@@ -1,4 +1,4 @@
-### A list with [BetterDiscord](https://betterdiscord.app/) plugins & themes that I use
+## A list with [BetterDiscord](https://betterdiscord.app/) plugins & themes that I use
 
 
 **Plugins**
@@ -19,6 +19,8 @@
 * [ThemeRepo](https://github.com/mwittrien/BetterDiscordAddons/tree/master/Plugins/ThemeRepo/) by DevilBro
 * [UserDetails](https://github.com/Strencher/BetterDiscordStuff/tree/development/UserDetails) by Strencher
 * [ZeresPluginLibrary](https://github.com/rauenzi/BDPluginLibrary/blob/master/release/0PluginLibrary.plugin.js) by Zerebos
+
+#
 
 **Themes**
 
